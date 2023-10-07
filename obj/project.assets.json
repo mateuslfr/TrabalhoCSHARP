@@ -1912,11 +1912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateus.ferraz\\Desktop\\Trabalho\\Trabalho.csproj",
+      "projectUniqueName": "C:\\Users\\mateus.ferraz\\Downloads\\Trabalho\\Trabalho.csproj",
       "projectName": "Trabalho",
-      "projectPath": "C:\\Users\\mateus.ferraz\\Desktop\\Trabalho\\Trabalho.csproj",
+      "projectPath": "C:\\Users\\mateus.ferraz\\Downloads\\Trabalho\\Trabalho.csproj",
       "packagesPath": "C:\\Users\\mateus.ferraz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateus.ferraz\\Desktop\\Trabalho\\obj\\",
+      "outputPath": "C:\\Users\\mateus.ferraz\\Downloads\\Trabalho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mateus.ferraz\\AppData\\Roaming\\NuGet\\NuGet.Config"
